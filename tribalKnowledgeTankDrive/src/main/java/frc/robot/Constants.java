@@ -22,9 +22,9 @@ public final class Constants {
   public static final int backRightMotor = 13;
  
   //manipulator motors
-  public static final int intake_Motor1 = 20;
-  public static final int intake_Motor2 = 21;
-  public static final int intake_Motor3 = 22;
+  public static final int intake_Motor1 = 20; //flywheel motor
+  public static final int intake_Motor2 = 21; //flywheel motor
+  public static final int intake_Motor3 = 22; //actuation motor
   
 
   public static class OperatorConstants {
