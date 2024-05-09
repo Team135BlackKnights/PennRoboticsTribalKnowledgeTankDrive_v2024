@@ -8,5 +8,5 @@ the names of variables, as well as the true values for the actuateIntake()
 function, but this will allow you to make sure that all of the code is 
 accurate overall.
 ------------------------------------------------------------------------------
-Good luck on future programmers!
+Good luck future programmers!
 ---------------------------------
